@@ -5,7 +5,7 @@ This repository collects articles, thoughts, and information I’ve learned and 
 
 ## About
 
-Cyber-Blogs is a personal project for sharing practical knowledge, reflections, and tutorials about cybersecurity.  
+Cyber.Articles is a personal project for sharing practical knowledge, reflections, and tutorials about cybersecurity.  
 The articles here are written from my perspective as a cybersecurity professional and cover a range of topics, including:
 
 - Best practices in cybersecurity
