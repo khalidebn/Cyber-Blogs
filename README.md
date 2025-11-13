@@ -1,6 +1,6 @@
 # Cyber.Articles
 
-Welcome to **Cyber-Blogs**!  
+Welcome to **Cyber.Articles**!  
 This repository collects articles, thoughts, and information I’ve learned and experienced during my career in the cybersecurity field.
 
 ## About
